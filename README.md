@@ -1,6 +1,6 @@
 # komiku
 Command:
-$ pkg update && pkg upgrade
+$ pkg update && pkg upgrade <br>
 $ pkg install git python -y
 $ git clone https://github.com/Mark-Zugbreg/komiku
 $ cd komiku
